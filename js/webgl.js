@@ -49,7 +49,7 @@ class Webgl {
 
     const textureLoader = new THREE.TextureLoader();
     loader.crossOrigin = "";
-    let normalMap = textureLoader.load("http://img/texture.png");
+    let normalMap = textureLoader.load("https://huseynovvusal.github.io/portfolio-site/img/texture.png");
 
     // Geometry
 
